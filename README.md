@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Sublime text et Python 3
+Sublime text, Python 3, Beautiful Soup
 
 ```
 
